@@ -4,7 +4,6 @@
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Python](https://img.shields.io/badge/Python-EDA-green)
 ![DAX](https://img.shields.io/badge/DAX-Power%20BI-orange)
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-purple)
 
 ## 📌 Project Overview
 
