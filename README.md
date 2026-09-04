@@ -166,3 +166,9 @@ This structure helps analyze shipment transactions together with product, suppli
 
 ---
 
+# 👩‍💻 Author
+
+## Sayali Santosh Zaware
+
+**Aspiring Data Analyst | Power BI Developer**
+
