@@ -1,7 +1,10 @@
 # 🚚 SupplyIQ – Supply Chain & Logistics Analytics
 
-![Python](https://img.shields.io/badge/Python-EDA-green)
-![DAX](https://img.shields.io/badge/DAX-Power%20BI-orange)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
 
 ## 📌 Project Overview
 
