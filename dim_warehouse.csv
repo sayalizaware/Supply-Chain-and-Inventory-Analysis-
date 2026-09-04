@@ -1,0 +1,31 @@
+Warehouse_ID,Warehouse_Name,City,State,Region,Warehouse_Type,Capacity,Manager_Name,Operating_Cost
+WH001,Mumbai Fulfillment Warehouse,Mumbai,Maharashtra,West,Fulfillment Center,20860,Rajesh Sharma,44052.96
+WH002,Pune Bulk Warehouse,Pune,Maharashtra,West,Bulk Storage,96820,Sunita Verma,199955.73
+WH003,Nagpur Regional Warehouse,Nagpur,Maharashtra,West,Regional Distribution Center,57194,Amit Patel,147601.88
+WH004,Ahmedabad Regional Warehouse,Ahmedabad,Gujarat,West,Regional Distribution Center,80263,Priya Reddy,241087.85
+WH005,Surat Regional Warehouse,Surat,Gujarat,West,Regional Distribution Center,20769,Vikram Nair,62876.03
+WH006,Delhi Cross-Dock Warehouse,Delhi,Delhi,North,Cross-Dock Hub,87969,Anjali Iyer,185535.63
+WH007,Gurugram Regional Warehouse,Gurugram,Haryana,North,Regional Distribution Center,73707,Suresh Gupta,209313.9
+WH008,Noida Regional Warehouse,Noida,Uttar Pradesh,North,Regional Distribution Center,113016,Neha Singh,259381.84
+WH009,Chandigarh Fulfillment Warehouse,Chandigarh,Punjab,North,Fulfillment Center,142537,Manoj Rao,267874.29
+WH010,Jaipur Cross-Dock Warehouse,Jaipur,Rajasthan,North,Cross-Dock Hub,79150,Deepa Menon,203836.5
+WH011,Lucknow Bulk Warehouse,Lucknow,Uttar Pradesh,North,Bulk Storage,139346,Arjun Joshi,341423.53
+WH012,Bengaluru Cross-Dock Warehouse,Bengaluru,Karnataka,South,Cross-Dock Hub,136216,Kavita Kapoor,255945.19
+WH013,Chennai Fulfillment Warehouse,Chennai,Tamil Nadu,South,Fulfillment Center,116276,Rahul Chatterjee,298346.63
+WH014,Hyderabad Regional Warehouse,Hyderabad,Telangana,South,Regional Distribution Center,28792,Pooja Das,99089.81
+WH015,Coimbatore Bulk Warehouse,Coimbatore,Tamil Nadu,South,Bulk Storage,96552,Sanjay Pillai,176414.28
+WH016,Kochi Regional Warehouse,Kochi,Kerala,South,Regional Distribution Center,140923,Meera Mehta,359108.34
+WH017,Visakhapatnam Regional Warehouse,Visakhapatnam,Andhra Pradesh,South,Regional Distribution Center,145436,Vivek Agarwal,467784.91
+WH018,Mysuru Regional Warehouse,Mysuru,Karnataka,South,Regional Distribution Center,55920,Anita Bose,125256.66
+WH019,Kolkata Cold Warehouse,Kolkata,West Bengal,East,Cold Storage,39457,Karan Naidu,99540.74
+WH020,Patna Regional Warehouse,Patna,Bihar,East,Regional Distribution Center,72995,Ritu Kulkarni,154329.87
+WH021,Bhubaneswar Cross-Dock Warehouse,Bhubaneswar,Odisha,East,Cross-Dock Hub,92409,Ashok Malhotra,236990.46
+WH022,Guwahati Fulfillment Warehouse,Guwahati,Assam,East,Fulfillment Center,119299,Divya Chawla,335997.28
+WH023,Ranchi Cross-Dock Warehouse,Ranchi,Jharkhand,East,Cross-Dock Hub,114663,Ramesh Bhatt,317588.39
+WH024,Indore Fulfillment Warehouse,Indore,Madhya Pradesh,Central,Fulfillment Center,109789,Swati Saxena,258340.28
+WH025,Bhopal Fulfillment Warehouse,Bhopal,Madhya Pradesh,Central,Fulfillment Center,94065,Nitin Yadav,255619.44
+WH026,Raipur Fulfillment Warehouse,Raipur,Chhattisgarh,Central,Fulfillment Center,83704,Geeta Mishra,190643.28
+WH027,Nashik Fulfillment Warehouse,Nashik,Maharashtra,West,Fulfillment Center,125512,Sunil Pandey,289137.6
+WH028,Vadodara Regional Warehouse,Vadodara,Gujarat,West,Regional Distribution Center,68984,Rekha Chauhan,239906.19
+WH029,Ludhiana Bulk Warehouse,Ludhiana,Punjab,North,Bulk Storage,87563,Prakash Trivedi,201301.2
+WH030,Kanpur Regional Warehouse,Kanpur,Uttar Pradesh,North,Regional Distribution Center,107538,Shweta Bhatia,322792.24

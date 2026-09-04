@@ -1,0 +1,401 @@
+Product_ID,Product_Name,Category,Sub_Category,Brand,Unit_Cost,Selling_Price,Weight_KG,Shelf_Life_Days,Package_Type,Reorder_Level,Maximum_Stock,Minimum_Stock
+PRD0001,Nextron Classic Wearables 001,Electronics,Wearables,Nextron,544.67,858.79,0.96,1116,Carton,275,1048,170
+PRD0002,Nextron Ultra Home 002,Electronics,Home Appliances Electronics,Nextron,7696.05,11343.77,2.17,1646,Carton,323,972,170
+PRD0003,Sonic Smart Home 003,Electronics,Home Appliances Electronics,Sonic,5277.36,7009.89,3.2,695,Carton,366,1294,172
+PRD0004,Nextron Pro Mobile 004,Electronics,Mobile Accessories,Nextron,1446.13,2223.82,0.84,824,Blister Pack,222,827,116
+PRD0005,Voltek Compact Mobile 005,Electronics,Mobile Accessories,Voltek,7929.33,13345.14,1.92,898,Carton,209,882,100
+PRD0006,Nextron Everyday Audio 006,Electronics,Audio Devices,Nextron,5119.41,8414.77,0.35,830,Box,270,1144,124
+PRD0007,Sonic Standard Audio 007,Electronics,Audio Devices,Sonic,701.7,1118.68,4.24,486,Carton,263,785,72
+PRD0008,Sonic Compact Computer 008,Electronics,Computer Peripherals,Sonic,2848.67,4389.36,0.52,529,Carton,425,1134,278
+PRD0009,Pixelan Compact Computer 009,Electronics,Computer Peripherals,Pixelan,6873.35,11034.23,0.24,1536,Carton,309,786,126
+PRD0010,Wavetech Essential Computer 010,Electronics,Computer Peripherals,Wavetech,6035.39,7636.77,2.49,1716,Box,200,911,109
+PRD0011,Voltek Advanced Audio 011,Electronics,Audio Devices,Voltek,1278.89,2121.22,3.05,563,Blister Pack,421,1413,233
+PRD0012,Wavetech Pro Mobile 012,Electronics,Mobile Accessories,Wavetech,743.18,1157.27,3.23,1488,Carton,476,1438,298
+PRD0013,Voltek Smart Computer 013,Electronics,Computer Peripherals,Voltek,1702.65,2045.78,1.37,565,Carton,325,1267,167
+PRD0014,Wavetech Essential Home 014,Electronics,Home Appliances Electronics,Wavetech,1122.48,1675.18,4.25,494,Carton,234,1083,178
+PRD0015,Pixelan Heavy-Duty Computer 015,Electronics,Computer Peripherals,Pixelan,6465.66,7816.95,3.73,1119,Box,348,887,242
+PRD0016,Voltek Heavy-Duty Computer 016,Electronics,Computer Peripherals,Voltek,446.69,724.05,3.74,1402,Box,268,627,159
+PRD0017,Nextron Elite Mobile 017,Electronics,Mobile Accessories,Nextron,5907.52,8376.43,4.4,806,Blister Pack,220,957,72
+PRD0018,Voltek Everyday Home 018,Electronics,Home Appliances Electronics,Voltek,2965.56,4490.25,3.55,457,Box,211,1071,89
+PRD0019,Sonic Deluxe Mobile 019,Electronics,Mobile Accessories,Sonic,4031.45,5592.76,3.49,904,Blister Pack,272,1220,114
+PRD0020,Pixelan Signature Mobile 020,Electronics,Mobile Accessories,Pixelan,4838.99,7409.64,2.46,454,Blister Pack,219,1055,132
+PRD0021,Voltek Heavy-Duty Computer 021,Electronics,Computer Peripherals,Voltek,4446.57,6417.92,3.81,1334,Box,369,869,182
+PRD0022,Nextron Smart Mobile 022,Electronics,Mobile Accessories,Nextron,6171.03,8308.1,3.78,1391,Blister Pack,360,1009,197
+PRD0023,Nextron Everyday Audio 023,Electronics,Audio Devices,Nextron,1580.11,2620.47,2.91,931,Blister Pack,147,751,75
+PRD0024,Sonic Deluxe Audio 024,Electronics,Audio Devices,Sonic,3437.5,5310.18,3.21,1762,Box,309,946,117
+PRD0025,Pixelan Classic Mobile 025,Electronics,Mobile Accessories,Pixelan,5079.56,9002.43,3.63,971,Blister Pack,196,1191,62
+PRD0026,Pixelan Everyday Wearables 026,Electronics,Wearables,Pixelan,7065.65,11907.42,0.94,1751,Box,345,894,289
+PRD0027,Voltek Ultra Wearables 027,Electronics,Wearables,Voltek,1445.8,2246.19,2.62,1558,Carton,348,822,155
+PRD0028,Wavetech Portable Audio 028,Electronics,Audio Devices,Wavetech,4351.75,6710.06,4.78,1637,Blister Pack,266,949,104
+PRD0029,Wavetech Pro Mobile 029,Electronics,Mobile Accessories,Wavetech,1459.94,2055.81,0.86,507,Carton,355,866,239
+PRD0030,Nextron Advanced Wearables 030,Electronics,Wearables,Nextron,7366.69,9453.77,3.87,1753,Carton,282,1048,86
+PRD0031,Wavetech Standard Home 031,Electronics,Home Appliances Electronics,Wavetech,3830.87,6233.29,4.62,622,Box,365,1218,258
+PRD0032,Sonic Advanced Audio 032,Electronics,Audio Devices,Sonic,5731.54,9154.47,4.19,1647,Blister Pack,252,1192,127
+PRD0033,Pixelan Smart Home 033,Electronics,Home Appliances Electronics,Pixelan,2671.03,4534.27,3.13,1138,Box,174,629,62
+PRD0034,Voltek Signature Wearables 034,Electronics,Wearables,Voltek,4524.68,7165.04,1.79,461,Blister Pack,455,907,265
+PRD0035,Voltek Portable Wearables 035,Electronics,Wearables,Voltek,5281.63,8842.17,4.22,1710,Blister Pack,267,1003,70
+PRD0036,Wavetech Compact Home 036,Electronics,Home Appliances Electronics,Wavetech,3392.47,5651.87,3.69,1699,Carton,285,1040,154
+PRD0037,Voltek Pro Mobile 037,Electronics,Mobile Accessories,Voltek,1428.43,2500.31,2.75,1725,Box,229,621,142
+PRD0038,Wavetech Advanced Wearables 038,Electronics,Wearables,Wavetech,2024.06,2797.56,2.95,739,Blister Pack,328,1251,208
+PRD0039,Sonic Standard Audio 039,Electronics,Audio Devices,Sonic,5487.41,6819.77,4.21,714,Blister Pack,374,914,219
+PRD0040,Voltek Pro Audio 040,Electronics,Audio Devices,Voltek,2601.42,3629.09,1.57,578,Blister Pack,288,1050,234
+PRD0041,Comfora Portable Office 041,Furniture,Office Furniture,Comfora,15412.04,23106.45,26.14,3234,Flat Pack,312,985,152
+PRD0042,Formline Heavy-Duty Office 042,Furniture,Office Furniture,Formline,12489.12,21065.71,6.56,1900,Wooden Crate,377,710,296
+PRD0043,Formline Ultra Outdoor 043,Furniture,Outdoor Furniture,Formline,2709.29,4721.95,12.87,3577,Wooden Crate,385,1070,277
+PRD0044,Formline Advanced Office 044,Furniture,Office Furniture,Formline,1896.26,3316.23,27.03,3118,Wooden Crate,348,792,211
+PRD0045,SolidBase Portable Home 045,Furniture,Home Furniture,SolidBase,20850.45,29220.41,5.65,2797,Carton,264,1103,151
+PRD0046,Woodcraft Pro Home 046,Furniture,Home Furniture,Woodcraft,5654.6,8551.85,52.99,2192,Flat Pack,233,901,80
+PRD0047,Formline Premium Modular 047,Furniture,Modular Storage,Formline,12876.83,21397.74,10.66,2283,Wooden Crate,344,851,160
+PRD0048,Comfora Pro Office 048,Furniture,Office Furniture,Comfora,7416.94,11742.86,47.75,2379,Wooden Crate,406,808,263
+PRD0049,Formline Standard Office 049,Furniture,Office Furniture,Formline,5085.25,8645.35,40.28,2817,Flat Pack,256,601,188
+PRD0050,Formline Heavy-Duty Outdoor 050,Furniture,Outdoor Furniture,Formline,4073.06,6379.61,34.12,2206,Wooden Crate,393,1366,238
+PRD0051,Comfora Classic Modular 051,Furniture,Modular Storage,Comfora,16354.69,25411.2,39.55,1859,Wooden Crate,242,753,105
+PRD0052,Comfora Classic Seating 052,Furniture,Seating,Comfora,22235.83,38586.71,59.0,3512,Flat Pack,140,592,73
+PRD0053,Formline Essential Seating 053,Furniture,Seating,Formline,23174.66,32867.69,9.86,2635,Carton,244,1187,177
+PRD0054,Formline Advanced Outdoor 054,Furniture,Outdoor Furniture,Formline,11360.73,14287.36,32.1,2343,Wooden Crate,411,1217,226
+PRD0055,Formline Compact Modular 055,Furniture,Modular Storage,Formline,4700.76,7761.1,9.53,2509,Carton,157,872,94
+PRD0056,Comfora Classic Modular 056,Furniture,Modular Storage,Comfora,8754.8,15003.76,18.8,3004,Wooden Crate,298,896,248
+PRD0057,Woodcraft Compact Office 057,Furniture,Office Furniture,Woodcraft,12033.12,19935.1,52.13,2339,Carton,222,713,103
+PRD0058,Formline Elite Office 058,Furniture,Office Furniture,Formline,7133.73,10213.62,9.7,3371,Wooden Crate,322,934,172
+PRD0059,Formline Compact Seating 059,Furniture,Seating,Formline,24842.68,34260.02,11.03,2435,Wooden Crate,312,765,202
+PRD0060,Comfora Essential Outdoor 060,Furniture,Outdoor Furniture,Comfora,4249.99,6940.78,53.08,2650,Wooden Crate,309,671,148
+PRD0061,SolidBase Classic Outdoor 061,Furniture,Outdoor Furniture,SolidBase,20307.79,35524.26,23.2,1939,Carton,431,837,271
+PRD0062,UrbanNest Essential Seating 062,Furniture,Seating,UrbanNest,11911.99,19388.08,57.21,2167,Carton,317,1225,160
+PRD0063,UrbanNest Smart Modular 063,Furniture,Modular Storage,UrbanNest,6512.18,8635.29,29.45,2315,Flat Pack,314,1096,165
+PRD0064,Woodcraft Deluxe Outdoor 064,Furniture,Outdoor Furniture,Woodcraft,2782.35,3428.72,22.09,2670,Flat Pack,130,525,73
+PRD0065,Formline Classic Modular 065,Furniture,Modular Storage,Formline,22681.48,39472.42,49.82,2194,Wooden Crate,238,889,132
+PRD0066,Woodcraft Smart Modular 066,Furniture,Modular Storage,Woodcraft,2664.7,3523.64,18.04,1955,Carton,371,1117,220
+PRD0067,Woodcraft Deluxe Outdoor 067,Furniture,Outdoor Furniture,Woodcraft,13843.79,19805.93,52.7,3632,Wooden Crate,256,907,202
+PRD0068,UrbanNest Compact Modular 068,Furniture,Modular Storage,UrbanNest,998.67,1644.97,9.96,2394,Wooden Crate,356,1343,284
+PRD0069,Comfora Classic Seating 069,Furniture,Seating,Comfora,8192.81,11949.03,48.64,2930,Carton,232,631,117
+PRD0070,UrbanNest Standard Office 070,Furniture,Office Furniture,UrbanNest,18648.5,31990.91,53.78,2951,Carton,266,757,161
+PRD0071,Formline Deluxe Outdoor 071,Furniture,Outdoor Furniture,Formline,5795.14,9576.72,57.01,2707,Flat Pack,245,814,153
+PRD0072,SolidBase Smart Seating 072,Furniture,Seating,SolidBase,18207.45,28699.05,7.01,3600,Wooden Crate,373,719,215
+PRD0073,Comfora Portable Outdoor 073,Furniture,Outdoor Furniture,Comfora,22590.23,31120.14,43.02,3464,Carton,304,1240,252
+PRD0074,Comfora Pro Outdoor 074,Furniture,Outdoor Furniture,Comfora,11989.84,20793.2,28.36,2978,Wooden Crate,407,1140,290
+PRD0075,SolidBase Portable Modular 075,Furniture,Modular Storage,SolidBase,11867.42,14275.68,23.67,3068,Flat Pack,187,622,52
+PRD0076,Woodcraft Portable Modular 076,Furniture,Modular Storage,Woodcraft,7170.68,12638.95,32.17,2368,Wooden Crate,392,717,204
+PRD0077,Formline Standard Home 077,Furniture,Home Furniture,Formline,14212.66,24492.46,58.69,2485,Flat Pack,232,1223,152
+PRD0078,SolidBase Pro Seating 078,Furniture,Seating,SolidBase,22293.39,37701.86,6.75,2482,Flat Pack,414,1358,232
+PRD0079,SolidBase Everyday Outdoor 079,Furniture,Outdoor Furniture,SolidBase,2518.29,3534.46,40.78,2386,Wooden Crate,174,962,114
+PRD0080,SolidBase Essential Outdoor 080,Furniture,Outdoor Furniture,SolidBase,8285.77,11610.78,46.6,2312,Carton,344,766,170
+PRD0081,ClipLine Ultra Printing 081,Office Supplies,Printing Supplies,ClipLine,972.96,1665.56,0.28,1562,Poly Bag,327,1289,241
+PRD0082,DeskEdge Signature Desk 082,Office Supplies,Desk Accessories,DeskEdge,1299.96,2176.46,2.93,1396,Poly Bag,396,1260,277
+PRD0083,ClipLine Premium Desk 083,Office Supplies,Desk Accessories,ClipLine,233.38,386.32,0.24,1480,Poly Bag,295,1069,230
+PRD0084,ClipLine Ultra Writing 084,Office Supplies,Writing Instruments,ClipLine,447.05,590.51,0.22,2024,Pack,298,689,142
+PRD0085,OfficeMate Everyday Stationery 085,Office Supplies,Stationery,OfficeMate,636.05,855.0,2.26,1794,Poly Bag,402,1297,240
+PRD0086,InkWell Advanced Stationery 086,Office Supplies,Stationery,InkWell,692.67,855.66,2.31,1561,Pack,224,1047,166
+PRD0087,OfficeMate Ultra Stationery 087,Office Supplies,Stationery,OfficeMate,433.78,612.66,1.85,2352,Pack,276,1048,132
+PRD0088,ClipLine Signature Stationery 088,Office Supplies,Stationery,ClipLine,720.84,1239.08,2.36,892,Box,232,1110,58
+PRD0089,ClipLine Everyday Writing 089,Office Supplies,Writing Instruments,ClipLine,1149.11,1580.7,0.65,1075,Box,216,879,142
+PRD0090,OfficeMate Advanced Desk 090,Office Supplies,Desk Accessories,OfficeMate,230.09,328.74,0.98,2383,Pack,109,796,51
+PRD0091,ClipLine Compact Writing 091,Office Supplies,Writing Instruments,ClipLine,703.69,1189.4,1.95,2017,Box,335,1172,149
+PRD0092,DeskEdge Pro Desk 092,Office Supplies,Desk Accessories,DeskEdge,994.68,1369.29,1.41,2366,Poly Bag,190,1133,122
+PRD0093,PaperPro Compact Filing 093,Office Supplies,Filing & Storage,PaperPro,1056.31,1626.02,1.74,2195,Poly Bag,179,1139,69
+PRD0094,DeskEdge Signature Writing 094,Office Supplies,Writing Instruments,DeskEdge,736.21,1120.56,2.97,1860,Pack,265,759,205
+PRD0095,ClipLine Smart Stationery 095,Office Supplies,Stationery,ClipLine,1251.04,2119.74,0.41,2332,Poly Bag,348,1345,185
+PRD0096,ClipLine Pro Writing 096,Office Supplies,Writing Instruments,ClipLine,69.28,111.36,1.21,1174,Poly Bag,309,660,256
+PRD0097,InkWell Premium Stationery 097,Office Supplies,Stationery,InkWell,1017.59,1805.32,1.45,2226,Pack,473,1116,298
+PRD0098,OfficeMate Deluxe Filing 098,Office Supplies,Filing & Storage,OfficeMate,1205.94,1517.71,1.15,1566,Box,362,914,196
+PRD0099,ClipLine Ultra Filing 099,Office Supplies,Filing & Storage,ClipLine,757.01,965.45,1.32,1132,Box,150,723,84
+PRD0100,InkWell Heavy-Duty Writing 100,Office Supplies,Writing Instruments,InkWell,833.53,1490.8,1.83,913,Poly Bag,276,1270,199
+PRD0101,InkWell Signature Stationery 101,Office Supplies,Stationery,InkWell,1225.4,1807.21,1.93,1500,Poly Bag,155,466,93
+PRD0102,OfficeMate Smart Filing 102,Office Supplies,Filing & Storage,OfficeMate,1253.59,2012.61,0.27,1707,Box,422,1242,263
+PRD0103,ClipLine Premium Desk 103,Office Supplies,Desk Accessories,ClipLine,469.64,737.74,2.05,1831,Poly Bag,265,601,139
+PRD0104,DeskEdge Deluxe Stationery 104,Office Supplies,Stationery,DeskEdge,1436.76,2541.41,1.84,2256,Pack,376,736,192
+PRD0105,InkWell Standard Stationery 105,Office Supplies,Stationery,InkWell,868.08,1455.84,0.13,2140,Pack,144,996,54
+PRD0106,InkWell Elite Writing 106,Office Supplies,Writing Instruments,InkWell,1208.34,1765.4,2.97,1096,Poly Bag,336,696,138
+PRD0107,PaperPro Smart Filing 107,Office Supplies,Filing & Storage,PaperPro,512.81,646.47,1.02,1105,Box,283,1237,86
+PRD0108,OfficeMate Standard Writing 108,Office Supplies,Writing Instruments,OfficeMate,854.95,1091.45,2.16,1912,Box,175,692,101
+PRD0109,OfficeMate Elite Writing 109,Office Supplies,Writing Instruments,OfficeMate,1156.94,1682.43,2.27,2182,Poly Bag,193,628,76
+PRD0110,InkWell Elite Printing 110,Office Supplies,Printing Supplies,InkWell,1008.25,1603.76,2.72,2068,Pack,367,905,190
+PRD0111,ClipLine Deluxe Desk 111,Office Supplies,Desk Accessories,ClipLine,1198.4,2091.96,1.33,1947,Poly Bag,312,1088,192
+PRD0112,InkWell Premium Desk 112,Office Supplies,Desk Accessories,InkWell,170.35,272.04,2.62,2223,Box,315,1198,162
+PRD0113,OfficeMate Compact Writing 113,Office Supplies,Writing Instruments,OfficeMate,32.5,52.31,1.75,2494,Pack,181,1060,61
+PRD0114,DeskEdge Portable Desk 114,Office Supplies,Desk Accessories,DeskEdge,328.11,463.76,0.28,1401,Box,267,1096,117
+PRD0115,DeskEdge Essential Stationery 115,Office Supplies,Stationery,DeskEdge,348.36,570.31,0.29,1263,Pack,386,705,278
+PRD0116,DeskEdge Signature Printing 116,Office Supplies,Printing Supplies,DeskEdge,333.96,440.52,1.7,795,Pack,394,712,273
+PRD0117,OfficeMate Classic Writing 117,Office Supplies,Writing Instruments,OfficeMate,1477.44,2626.09,0.57,1197,Box,390,972,220
+PRD0118,PaperPro Advanced Desk 118,Office Supplies,Desk Accessories,PaperPro,1267.77,1583.36,1.46,2067,Poly Bag,330,1320,180
+PRD0119,ClipLine Portable Stationery 119,Office Supplies,Stationery,ClipLine,1381.82,2199.79,1.12,1053,Pack,343,850,293
+PRD0120,ClipLine Classic Stationery 120,Office Supplies,Stationery,ClipLine,1394.65,2220.35,0.37,1920,Pack,109,1037,53
+PRD0121,KitchPro Compact Kitchen 121,Kitchen,Kitchen Appliances,KitchPro,3529.73,4914.0,6.07,1949,Poly Bag,274,635,193
+PRD0122,PureCook Standard Storage 122,Kitchen,Storage Containers,PureCook,1518.21,2325.83,6.19,2430,Box,295,703,126
+PRD0123,PureCook Deluxe Kitchen 123,Kitchen,Kitchen Appliances,PureCook,4914.8,7845.64,6.86,2658,Carton,257,629,163
+PRD0124,Servewell Compact Storage 124,Kitchen,Storage Containers,Servewell,3784.74,6319.25,4.91,1420,Box,330,1037,176
+PRD0125,PureCook Standard Cookware 125,Kitchen,Cookware,PureCook,384.55,504.52,3.6,2706,Poly Bag,250,721,65
+PRD0126,PureCook Compact Kitchen 126,Kitchen,Kitchen Appliances,PureCook,119.93,207.22,6.16,2377,Poly Bag,245,797,128
+PRD0127,ChefLine Elite Kitchen 127,Kitchen,Kitchen Appliances,ChefLine,1098.82,1745.64,3.96,2086,Poly Bag,315,724,204
+PRD0128,PureCook Signature Kitchen 128,Kitchen,Kitchen Appliances,PureCook,374.56,634.18,7.54,984,Carton,379,903,258
+PRD0129,PureCook Everyday Cookware 129,Kitchen,Cookware,PureCook,2290.72,3068.74,5.75,1906,Box,265,772,158
+PRD0130,ChefLine Ultra Utensils 130,Kitchen,Utensils,ChefLine,1998.88,2436.13,3.6,2343,Poly Bag,148,847,92
+PRD0131,Servewell Essential Utensils 131,Kitchen,Utensils,Servewell,2092.22,3482.26,7.78,1654,Box,376,787,197
+PRD0132,KitchPro Everyday Utensils 132,Kitchen,Utensils,KitchPro,3902.4,5858.24,1.1,2348,Poly Bag,385,1225,191
+PRD0133,ChefLine Heavy-Duty Cookware 133,Kitchen,Cookware,ChefLine,2269.87,3656.52,4.63,741,Box,266,620,134
+PRD0134,HomeBrew Deluxe Storage 134,Kitchen,Storage Containers,HomeBrew,1360.96,2351.09,7.33,1523,Carton,277,740,141
+PRD0135,PureCook Ultra Tableware 135,Kitchen,Tableware,PureCook,5612.23,8831.03,2.42,2256,Carton,182,1082,96
+PRD0136,KitchPro Standard Kitchen 136,Kitchen,Kitchen Appliances,KitchPro,5934.45,8655.04,4.68,1701,Carton,423,742,253
+PRD0137,PureCook Classic Tableware 137,Kitchen,Tableware,PureCook,234.5,293.69,7.81,2208,Box,266,690,181
+PRD0138,ChefLine Pro Tableware 138,Kitchen,Tableware,ChefLine,3649.34,6261.25,4.69,1890,Poly Bag,262,1058,211
+PRD0139,PureCook Compact Tableware 139,Kitchen,Tableware,PureCook,471.44,696.75,2.28,1127,Box,237,793,54
+PRD0140,HomeBrew Deluxe Utensils 140,Kitchen,Utensils,HomeBrew,3945.72,6961.62,7.65,1139,Box,312,917,153
+PRD0141,Servewell Pro Cookware 141,Kitchen,Cookware,Servewell,3227.85,4147.77,5.97,1938,Carton,351,1337,189
+PRD0142,Servewell Everyday Cookware 142,Kitchen,Cookware,Servewell,620.52,1011.07,3.74,772,Box,398,966,275
+PRD0143,Servewell Compact Kitchen 143,Kitchen,Kitchen Appliances,Servewell,586.59,864.65,2.42,1552,Box,198,933,66
+PRD0144,KitchPro Deluxe Tableware 144,Kitchen,Tableware,KitchPro,5937.01,8689.67,1.54,1280,Box,308,928,204
+PRD0145,Servewell Advanced Cookware 145,Kitchen,Cookware,Servewell,4537.18,7119.29,7.04,1891,Poly Bag,213,876,63
+PRD0146,ChefLine Compact Tableware 146,Kitchen,Tableware,ChefLine,1519.62,2236.38,5.88,887,Carton,291,1100,121
+PRD0147,ChefLine Heavy-Duty Kitchen 147,Kitchen,Kitchen Appliances,ChefLine,155.67,256.37,0.97,2366,Box,214,990,81
+PRD0148,PureCook Elite Kitchen 148,Kitchen,Kitchen Appliances,PureCook,2299.61,3394.48,6.1,2742,Carton,239,935,134
+PRD0149,HomeBrew Classic Cookware 149,Kitchen,Cookware,HomeBrew,4675.01,7998.27,1.81,1865,Carton,296,936,153
+PRD0150,HomeBrew Elite Tableware 150,Kitchen,Tableware,HomeBrew,5833.04,9684.23,4.52,881,Carton,214,1035,100
+PRD0151,ChefLine Premium Utensils 151,Kitchen,Utensils,ChefLine,3407.59,5152.72,0.19,1955,Poly Bag,196,1082,64
+PRD0152,HomeBrew Portable Utensils 152,Kitchen,Utensils,HomeBrew,5548.66,9064.95,3.63,1363,Carton,376,851,294
+PRD0153,HomeBrew Premium Kitchen 153,Kitchen,Kitchen Appliances,HomeBrew,4029.97,5382.01,0.8,1081,Carton,183,1004,82
+PRD0154,PureCook Heavy-Duty Storage 154,Kitchen,Storage Containers,PureCook,3427.58,4861.08,2.97,2740,Box,350,992,239
+PRD0155,KitchPro Advanced Utensils 155,Kitchen,Utensils,KitchPro,422.18,716.05,6.44,2553,Carton,358,1099,255
+PRD0156,ChefLine Classic Cookware 156,Kitchen,Cookware,ChefLine,3924.19,6071.35,2.66,1074,Carton,298,1124,184
+PRD0157,Servewell Smart Storage 157,Kitchen,Storage Containers,Servewell,4588.67,6706.36,7.73,940,Poly Bag,192,515,69
+PRD0158,ChefLine Heavy-Duty Tableware 158,Kitchen,Tableware,ChefLine,4356.68,7566.23,4.57,1299,Box,217,903,95
+PRD0159,KitchPro Standard Cookware 159,Kitchen,Cookware,KitchPro,868.43,1206.87,6.39,1411,Poly Bag,353,1174,213
+PRD0160,ChefLine Portable Tableware 160,Kitchen,Tableware,ChefLine,3160.13,4579.14,6.49,1136,Box,171,1134,94
+PRD0161,Enduro Deluxe Team 161,Sports,Team Sports,Enduro,5112.77,7647.19,21.69,1690,Poly Bag,332,1063,155
+PRD0162,Trailmax Compact Outdoor 162,Sports,Outdoor Sports,Trailmax,4032.39,6690.41,24.96,1522,Carton,235,651,117
+PRD0163,Enduro Elite Cycling 163,Sports,Cycling,Enduro,1075.93,1373.42,7.92,755,Carton,417,741,265
+PRD0164,Enduro Heavy-Duty Sportswear 164,Sports,Sportswear,Enduro,9161.44,13498.12,1.6,854,Carton,434,1341,254
+PRD0165,Sprintly Ultra Outdoor 165,Sports,Outdoor Sports,Sprintly,5257.82,7036.91,19.85,2010,Poly Bag,304,918,124
+PRD0166,Trailmax Deluxe Team 166,Sports,Team Sports,Trailmax,10620.93,17836.72,17.66,2225,Carton,402,953,290
+PRD0167,Sprintly Smart Sportswear 167,Sports,Sportswear,Sprintly,7976.87,9762.5,25.74,1053,Box,184,790,67
+PRD0168,Sprintly Everyday Fitness 168,Sports,Fitness Equipment,Sprintly,5446.44,9657.6,28.42,1054,Poly Bag,245,738,180
+PRD0169,Enduro Deluxe Team 169,Sports,Team Sports,Enduro,9245.81,14591.16,23.4,1156,Poly Bag,256,958,72
+PRD0170,GearZone Compact Team 170,Sports,Team Sports,GearZone,3152.36,5284.89,11.65,957,Box,187,1144,124
+PRD0171,ProFit Essential Outdoor 171,Sports,Outdoor Sports,ProFit,9360.96,13314.4,12.94,961,Poly Bag,244,1129,77
+PRD0172,Trailmax Signature Outdoor 172,Sports,Outdoor Sports,Trailmax,1632.9,2202.02,11.5,1206,Carton,132,562,81
+PRD0173,ProFit Deluxe Fitness 173,Sports,Fitness Equipment,ProFit,11375.3,18407.73,29.8,2112,Poly Bag,365,982,288
+PRD0174,Enduro Smart Fitness 174,Sports,Fitness Equipment,Enduro,6078.15,8367.14,3.5,2498,Box,368,1261,181
+PRD0175,GearZone Smart Cycling 175,Sports,Cycling,GearZone,4379.82,6392.93,2.27,1531,Carton,232,787,138
+PRD0176,Enduro Advanced Team 176,Sports,Team Sports,Enduro,211.29,328.29,8.23,2080,Carton,379,1202,185
+PRD0177,Enduro Premium Sportswear 177,Sports,Sportswear,Enduro,10967.67,19338.99,29.5,863,Carton,302,1013,234
+PRD0178,Enduro Smart Sportswear 178,Sports,Sportswear,Enduro,2873.35,3654.99,1.82,1275,Carton,371,713,177
+PRD0179,Enduro Portable Outdoor 179,Sports,Outdoor Sports,Enduro,6709.6,10675.79,6.93,1232,Carton,231,688,110
+PRD0180,Enduro Heavy-Duty Sportswear 180,Sports,Sportswear,Enduro,11133.29,15565.91,13.2,748,Box,402,1370,216
+PRD0181,ProFit Deluxe Outdoor 181,Sports,Outdoor Sports,ProFit,9013.49,15112.49,10.43,840,Poly Bag,283,845,153
+PRD0182,GearZone Compact Outdoor 182,Sports,Outdoor Sports,GearZone,1183.31,2119.47,2.52,1893,Carton,312,1283,117
+PRD0183,Sprintly Compact Cycling 183,Sports,Cycling,Sprintly,321.47,551.61,17.46,1180,Carton,325,1233,275
+PRD0184,GearZone Classic Cycling 184,Sports,Cycling,GearZone,10292.17,17448.28,22.85,1204,Box,276,1086,87
+PRD0185,ProFit Advanced Outdoor 185,Sports,Outdoor Sports,ProFit,5069.7,6505.24,15.9,905,Box,231,993,126
+PRD0186,Enduro Portable Fitness 186,Sports,Fitness Equipment,Enduro,10807.94,18322.81,16.22,2509,Carton,311,642,162
+PRD0187,Trailmax Heavy-Duty Sportswear 187,Sports,Sportswear,Trailmax,11446.61,18539.86,7.22,2501,Carton,362,686,252
+PRD0188,Enduro Signature Cycling 188,Sports,Cycling,Enduro,3086.32,4289.64,13.99,2405,Box,286,722,215
+PRD0189,Sprintly Portable Sportswear 189,Sports,Sportswear,Sprintly,1536.65,2231.84,5.45,1783,Box,362,842,278
+PRD0190,Sprintly Signature Cycling 190,Sports,Cycling,Sprintly,7125.52,8929.46,0.3,2433,Poly Bag,242,896,104
+PRD0191,Trailmax Signature Sportswear 191,Sports,Sportswear,Trailmax,4443.98,5890.48,14.5,1352,Carton,361,1055,188
+PRD0192,GearZone Elite Cycling 192,Sports,Cycling,GearZone,8561.2,11864.31,23.91,1338,Box,348,1274,224
+PRD0193,Trailmax Smart Fitness 193,Sports,Fitness Equipment,Trailmax,10039.56,17709.84,11.97,762,Poly Bag,368,907,215
+PRD0194,Sprintly Advanced Team 194,Sports,Team Sports,Sprintly,7030.63,10797.88,2.93,2290,Poly Bag,379,975,279
+PRD0195,ProFit Standard Cycling 195,Sports,Cycling,ProFit,6448.99,9213.56,12.76,2405,Box,349,1191,189
+PRD0196,Sprintly Smart Sportswear 196,Sports,Sportswear,Sprintly,2592.33,3166.02,13.81,1366,Box,251,663,116
+PRD0197,Trailmax Advanced Fitness 197,Sports,Fitness Equipment,Trailmax,830.99,1335.45,20.58,792,Poly Bag,193,1119,133
+PRD0198,Enduro Advanced Fitness 198,Sports,Fitness Equipment,Enduro,4056.25,5495.42,9.93,2326,Poly Bag,294,768,149
+PRD0199,Sprintly Signature Sportswear 199,Sports,Sportswear,Sprintly,630.79,772.52,0.46,1629,Poly Bag,422,1197,280
+PRD0200,GearZone Standard Outdoor 200,Sports,Outdoor Sports,GearZone,5285.06,9450.97,29.69,1211,Poly Bag,282,933,219
+PRD0201,UrbanWeave Portable Men's 201,Fashion,Men's Apparel,UrbanWeave,3477.81,5305.1,2.24,742,Box,351,753,232
+PRD0202,Stridex Advanced Men's 202,Fashion,Men's Apparel,Stridex,3315.09,5026.48,1.5,526,Box,292,783,188
+PRD0203,UrbanWeave Deluxe Women's 203,Fashion,Women's Apparel,UrbanWeave,3391.1,5808.73,1.82,394,Box,404,1021,232
+PRD0204,UrbanWeave Essential Women's 204,Fashion,Women's Apparel,UrbanWeave,1117.35,1377.16,1.64,800,Box,322,1257,134
+PRD0205,Threadly Deluxe Accessories 205,Fashion,Accessories,Threadly,3165.8,5516.97,2.28,440,Poly Bag,249,1158,77
+PRD0206,Satchel Co Standard Women's 206,Fashion,Women's Apparel,Satchel Co,1279.32,1831.94,0.16,572,Poly Bag,292,1062,119
+PRD0207,Stridex Deluxe Accessories 207,Fashion,Accessories,Stridex,727.73,922.38,1.66,1328,Poly Bag,250,886,121
+PRD0208,UrbanWeave Smart Women's 208,Fashion,Women's Apparel,UrbanWeave,428.32,757.39,0.29,960,Poly Bag,303,815,157
+PRD0209,Satchel Co Compact Women's 209,Fashion,Women's Apparel,Satchel Co,1704.2,2942.86,1.92,671,Poly Bag,170,994,99
+PRD0210,Vogueline Pro Footwear 210,Fashion,Footwear,Vogueline,2992.24,3843.79,2.2,841,Box,251,675,121
+PRD0211,Stridex Pro Bags 211,Fashion,Bags,Stridex,480.38,661.43,0.9,1055,Poly Bag,344,1272,155
+PRD0212,Vogueline Elite Women's 212,Fashion,Women's Apparel,Vogueline,3765.91,5337.01,2.36,878,Poly Bag,470,772,292
+PRD0213,Threadly Classic Accessories 213,Fashion,Accessories,Threadly,4493.59,7942.58,1.91,475,Poly Bag,239,903,80
+PRD0214,Threadly Heavy-Duty Bags 214,Fashion,Bags,Threadly,344.6,439.81,2.0,1060,Poly Bag,150,825,61
+PRD0215,Satchel Co Heavy-Duty Accessories 215,Fashion,Accessories,Satchel Co,698.63,1046.67,1.41,1180,Box,132,766,63
+PRD0216,Satchel Co Advanced Footwear 216,Fashion,Footwear,Satchel Co,2966.97,4174.51,0.85,817,Box,429,954,288
+PRD0217,Vogueline Deluxe Bags 217,Fashion,Bags,Vogueline,223.4,275.4,0.13,379,Box,338,999,232
+PRD0218,Satchel Co Heavy-Duty Footwear 218,Fashion,Footwear,Satchel Co,2506.77,3342.7,1.33,558,Poly Bag,307,1167,217
+PRD0219,UrbanWeave Standard Women's 219,Fashion,Women's Apparel,UrbanWeave,1442.82,2003.23,0.73,1358,Box,431,1236,289
+PRD0220,Stridex Signature Footwear 220,Fashion,Footwear,Stridex,3158.33,3829.09,1.99,1195,Box,211,1022,79
+PRD0221,Stridex Ultra Women's 221,Fashion,Women's Apparel,Stridex,2545.84,3871.27,0.32,923,Box,251,669,55
+PRD0222,UrbanWeave Classic Accessories 222,Fashion,Accessories,UrbanWeave,1913.46,2565.91,2.0,972,Box,295,1014,151
+PRD0223,Vogueline Advanced Bags 223,Fashion,Bags,Vogueline,3433.76,6178.47,2.43,1084,Box,403,760,281
+PRD0224,UrbanWeave Compact Accessories 224,Fashion,Accessories,UrbanWeave,3188.96,3996.11,1.46,1333,Box,361,871,196
+PRD0225,UrbanWeave Elite Accessories 225,Fashion,Accessories,UrbanWeave,3211.96,3991.93,0.52,1055,Poly Bag,285,1056,93
+PRD0226,Threadly Heavy-Duty Accessories 226,Fashion,Accessories,Threadly,2672.92,4595.31,0.58,1170,Poly Bag,159,623,69
+PRD0227,UrbanWeave Smart Bags 227,Fashion,Bags,UrbanWeave,3472.41,4272.55,2.45,443,Poly Bag,200,722,147
+PRD0228,Threadly Standard Women's 228,Fashion,Women's Apparel,Threadly,1573.43,2534.98,1.55,479,Box,254,662,60
+PRD0229,Satchel Co Essential Footwear 229,Fashion,Footwear,Satchel Co,2656.28,3208.07,0.37,1265,Box,271,712,185
+PRD0230,Stridex Ultra Footwear 230,Fashion,Footwear,Stridex,3729.85,5339.77,0.3,1003,Poly Bag,121,423,55
+PRD0231,Threadly Ultra Men's 231,Fashion,Men's Apparel,Threadly,4388.68,6811.24,2.05,1439,Poly Bag,201,1057,105
+PRD0232,Threadly Advanced Men's 232,Fashion,Men's Apparel,Threadly,1849.14,2589.76,1.57,1067,Box,418,904,296
+PRD0233,Stridex Classic Footwear 233,Fashion,Footwear,Stridex,4435.52,7298.0,1.73,1298,Poly Bag,175,719,107
+PRD0234,Satchel Co Smart Footwear 234,Fashion,Footwear,Satchel Co,2901.99,4612.74,0.35,1459,Box,437,910,257
+PRD0235,UrbanWeave Signature Footwear 235,Fashion,Footwear,UrbanWeave,1411.76,2061.17,1.11,915,Poly Bag,227,1001,98
+PRD0236,Threadly Signature Women's 236,Fashion,Women's Apparel,Threadly,2620.33,4331.94,1.74,575,Poly Bag,291,1213,231
+PRD0237,Threadly Signature Accessories 237,Fashion,Accessories,Threadly,4433.93,5740.24,1.03,447,Poly Bag,460,1027,297
+PRD0238,UrbanWeave Standard Accessories 238,Fashion,Accessories,UrbanWeave,1982.39,2583.18,0.35,1017,Box,171,989,66
+PRD0239,UrbanWeave Ultra Bags 239,Fashion,Bags,UrbanWeave,479.53,832.77,2.22,1189,Poly Bag,265,1124,193
+PRD0240,Vogueline Premium Men's 240,Fashion,Men's Apparel,Vogueline,1982.19,2762.68,1.47,999,Poly Bag,316,943,157
+PRD0241,AutoLine Standard Bike 241,Automotive,Bike Accessories,AutoLine,5524.15,6631.21,20.57,2378,Carton,311,1031,247
+PRD0242,RoadKing Pro Tools 242,Automotive,Tools,RoadKing,487.09,675.76,1.89,3023,Crate,472,1187,275
+PRD0243,RoadKing Advanced Spare 243,Automotive,Spare Parts,RoadKing,505.11,744.89,14.78,3227,Box,412,985,291
+PRD0244,GearHead Signature Tools 244,Automotive,Tools,GearHead,4696.03,6595.48,0.25,2795,Box,163,1159,106
+PRD0245,TorquePro Essential Bike 245,Automotive,Bike Accessories,TorquePro,5005.34,6284.37,11.28,2829,Carton,310,760,194
+PRD0246,RoadKing Compact Tools 246,Automotive,Tools,RoadKing,5120.19,9149.39,22.11,3489,Crate,371,914,230
+PRD0247,RoadKing Heavy-Duty Spare 247,Automotive,Spare Parts,RoadKing,8743.84,14668.61,15.11,1469,Box,297,971,213
+PRD0248,GearHead Advanced Tools 248,Automotive,Tools,GearHead,8286.37,13146.65,12.14,3623,Carton,246,967,138
+PRD0249,MotoEdge Everyday Spare 249,Automotive,Spare Parts,MotoEdge,733.08,1233.58,7.39,3054,Carton,238,1205,106
+PRD0250,RoadKing Essential Car 250,Automotive,Car Accessories,RoadKing,2812.38,4961.63,16.88,1741,Box,247,939,126
+PRD0251,TorquePro Heavy-Duty Lubricants 251,Automotive,Lubricants,TorquePro,2032.22,2637.09,24.53,1238,Crate,269,858,198
+PRD0252,AutoLine Elite Tools 252,Automotive,Tools,AutoLine,1030.37,1461.03,6.03,2857,Carton,320,1130,251
+PRD0253,MotoEdge Ultra Car 253,Automotive,Car Accessories,MotoEdge,5959.27,9023.83,10.23,3306,Carton,373,1258,190
+PRD0254,TorquePro Deluxe Spare 254,Automotive,Spare Parts,TorquePro,4047.32,5510.17,7.72,2313,Carton,325,1084,185
+PRD0255,RoadKing Ultra Spare 255,Automotive,Spare Parts,RoadKing,887.01,1502.41,13.41,948,Crate,190,855,77
+PRD0256,GearHead Heavy-Duty Spare 256,Automotive,Spare Parts,GearHead,7692.83,12543.34,21.45,2204,Box,263,754,120
+PRD0257,RoadKing Compact Car 257,Automotive,Car Accessories,RoadKing,5789.06,8516.6,0.33,1878,Carton,334,840,190
+PRD0258,MotoEdge Heavy-Duty Car 258,Automotive,Car Accessories,MotoEdge,8343.66,11660.29,3.61,2692,Box,219,662,146
+PRD0259,AutoLine Pro Bike 259,Automotive,Bike Accessories,AutoLine,5034.84,6817.91,24.69,1744,Crate,264,566,81
+PRD0260,AutoLine Standard Bike 260,Automotive,Bike Accessories,AutoLine,3331.7,5752.2,2.85,997,Box,119,1049,65
+PRD0261,RoadKing Ultra Spare 261,Automotive,Spare Parts,RoadKing,6215.64,10532.98,24.78,1534,Crate,145,631,70
+PRD0262,TorquePro Everyday Lubricants 262,Automotive,Lubricants,TorquePro,4100.32,5677.84,0.8,1864,Carton,344,786,263
+PRD0263,AutoLine Pro Spare 263,Automotive,Spare Parts,AutoLine,4826.04,8631.4,17.22,769,Crate,285,1043,112
+PRD0264,AutoLine Classic Lubricants 264,Automotive,Lubricants,AutoLine,5239.14,7262.36,22.85,1523,Crate,273,698,196
+PRD0265,AutoLine Smart Spare 265,Automotive,Spare Parts,AutoLine,3090.54,3980.61,2.52,2339,Box,280,981,124
+PRD0266,MotoEdge Elite Tools 266,Automotive,Tools,MotoEdge,2927.07,4783.29,13.95,2045,Carton,284,893,145
+PRD0267,AutoLine Standard Car 267,Automotive,Car Accessories,AutoLine,8044.89,14079.71,17.94,2678,Crate,277,1239,196
+PRD0268,TorquePro Pro Tools 268,Automotive,Tools,TorquePro,6981.12,11357.13,20.35,3498,Box,228,923,167
+PRD0269,MotoEdge Ultra Car 269,Automotive,Car Accessories,MotoEdge,3182.24,5157.9,20.81,2291,Carton,292,782,233
+PRD0270,GearHead Elite Lubricants 270,Automotive,Lubricants,GearHead,6809.07,12095.22,16.68,2273,Carton,237,580,91
+PRD0271,MotoEdge Elite Tools 271,Automotive,Tools,MotoEdge,8646.95,11317.44,21.14,3352,Crate,214,953,155
+PRD0272,TorquePro Advanced Spare 272,Automotive,Spare Parts,TorquePro,8924.47,12754.35,0.49,3330,Carton,396,1184,248
+PRD0273,GearHead Essential Lubricants 273,Automotive,Lubricants,GearHead,6949.66,11540.4,16.58,1601,Crate,330,1013,265
+PRD0274,GearHead Pro Tools 274,Automotive,Tools,GearHead,1027.42,1400.02,20.77,1694,Carton,286,692,103
+PRD0275,AutoLine Portable Tools 275,Automotive,Tools,AutoLine,1975.74,2389.42,15.87,2800,Box,359,1076,245
+PRD0276,AutoLine Portable Bike 276,Automotive,Bike Accessories,AutoLine,1888.54,2739.37,0.88,829,Carton,181,522,83
+PRD0277,GearHead Everyday Lubricants 277,Automotive,Lubricants,GearHead,346.22,514.17,5.46,2757,Carton,384,1342,216
+PRD0278,GearHead Premium Lubricants 278,Automotive,Lubricants,GearHead,6916.89,9035.28,20.47,917,Crate,428,981,259
+PRD0279,MotoEdge Smart Car 279,Automotive,Car Accessories,MotoEdge,8883.35,15224.34,16.03,2924,Box,219,1183,81
+PRD0280,AutoLine Premium Car 280,Automotive,Car Accessories,AutoLine,5033.27,7283.42,4.8,1784,Crate,226,532,62
+PRD0281,MediCore Pro Diagnostic 281,Medical,Diagnostic Devices,MediCore,11261.23,14684.12,2.79,985,Sealed Pack,361,1119,299
+PRD0282,MediCore Everyday Diagnostic 282,Medical,Diagnostic Devices,MediCore,7417.77,10755.11,5.35,909,Sealed Pack,333,654,202
+PRD0283,PulseAid Elite Mobility 283,Medical,Mobility Aids,PulseAid,6528.93,8916.44,1.59,520,Sealed Pack,225,699,160
+PRD0284,CarePlus Standard Personal 284,Medical,Personal Care,CarePlus,6459.21,10249.06,4.5,374,Box,373,1139,192
+PRD0285,CarePlus Premium Medical 285,Medical,Medical Supplies,CarePlus,3176.71,5598.23,5.99,762,Sealed Pack,313,753,245
+PRD0286,MediCore Signature Medical 286,Medical,Medical Supplies,MediCore,13475.7,23038.72,4.78,1003,Carton,182,817,94
+PRD0287,PulseAid Classic Medical 287,Medical,Medical Supplies,PulseAid,10410.64,13653.9,9.04,411,Carton,243,1115,148
+PRD0288,MediCore Compact First 288,Medical,First Aid,MediCore,1283.9,2054.49,10.36,974,Box,318,698,149
+PRD0289,MediCore Compact Personal 289,Medical,Personal Care,MediCore,3909.31,6597.66,7.7,718,Box,157,1029,53
+PRD0290,CarePlus Smart Diagnostic 290,Medical,Diagnostic Devices,CarePlus,14555.79,26193.98,5.78,565,Sealed Pack,490,1485,298
+PRD0291,HealWell Ultra Personal 291,Medical,Personal Care,HealWell,4659.68,8007.24,9.51,401,Box,178,1177,120
+PRD0292,VitalTech Advanced Medical 292,Medical,Medical Supplies,VitalTech,9088.41,12566.04,7.8,511,Carton,184,1150,130
+PRD0293,VitalTech Deluxe Medical 293,Medical,Medical Supplies,VitalTech,1752.42,2612.14,10.51,770,Sealed Pack,300,1057,116
+PRD0294,VitalTech Classic First 294,Medical,First Aid,VitalTech,6160.79,10746.92,5.24,780,Box,227,558,174
+PRD0295,VitalTech Ultra Diagnostic 295,Medical,Diagnostic Devices,VitalTech,9788.56,12608.18,3.39,547,Box,460,1421,264
+PRD0296,VitalTech Elite Medical 296,Medical,Medical Supplies,VitalTech,11643.62,15213.49,1.75,435,Sealed Pack,401,714,274
+PRD0297,PulseAid Premium Diagnostic 297,Medical,Diagnostic Devices,PulseAid,13406.61,24023.53,2.14,518,Sealed Pack,130,1105,53
+PRD0298,HealWell Classic Personal 298,Medical,Personal Care,HealWell,11020.09,17287.65,3.01,452,Box,234,1045,136
+PRD0299,MediCore Premium Mobility 299,Medical,Mobility Aids,MediCore,10939.74,18823.12,3.74,983,Box,273,1223,221
+PRD0300,PulseAid Classic Diagnostic 300,Medical,Diagnostic Devices,PulseAid,4063.76,5330.25,2.97,971,Box,358,1120,235
+PRD0301,HealWell Elite First 301,Medical,First Aid,HealWell,5768.28,8018.36,10.37,883,Box,341,839,143
+PRD0302,VitalTech Ultra Medical 302,Medical,Medical Supplies,VitalTech,14763.67,24946.24,3.76,393,Carton,255,1032,137
+PRD0303,VitalTech Portable Mobility 303,Medical,Mobility Aids,VitalTech,588.24,1038.58,7.89,694,Sealed Pack,181,638,88
+PRD0304,PulseAid Smart First 304,Medical,First Aid,PulseAid,940.59,1295.47,7.37,963,Carton,390,969,196
+PRD0305,VitalTech Deluxe Medical 305,Medical,Medical Supplies,VitalTech,2387.11,4075.26,9.86,719,Box,293,944,229
+PRD0306,MediCore Smart Medical 306,Medical,Medical Supplies,MediCore,4845.07,6638.24,4.72,856,Sealed Pack,361,1245,210
+PRD0307,CarePlus Smart First 307,Medical,First Aid,CarePlus,8924.41,15937.86,1.12,416,Carton,416,778,277
+PRD0308,PulseAid Advanced Medical 308,Medical,Medical Supplies,PulseAid,12245.76,17099.13,2.57,557,Box,354,1338,179
+PRD0309,HealWell Heavy-Duty First 309,Medical,First Aid,HealWell,7850.05,13737.05,5.41,571,Carton,302,985,118
+PRD0310,VitalTech Portable Personal 310,Medical,Personal Care,VitalTech,1188.85,1575.43,2.29,1018,Carton,168,677,118
+PRD0311,MediCore Heavy-Duty Mobility 311,Medical,Mobility Aids,MediCore,4699.7,7810.23,0.69,543,Carton,233,1047,149
+PRD0312,PulseAid Heavy-Duty Diagnostic 312,Medical,Diagnostic Devices,PulseAid,8475.49,10689.73,10.16,622,Box,168,1157,72
+PRD0313,HealWell Heavy-Duty First 313,Medical,First Aid,HealWell,1502.3,2237.77,7.12,874,Box,315,1294,168
+PRD0314,PulseAid Classic Medical 314,Medical,Medical Supplies,PulseAid,11048.19,14919.02,4.16,429,Sealed Pack,309,1163,237
+PRD0315,HealWell Premium Mobility 315,Medical,Mobility Aids,HealWell,4528.36,6375.5,0.73,366,Carton,367,1348,178
+PRD0316,PulseAid Standard Diagnostic 316,Medical,Diagnostic Devices,PulseAid,6691.77,8860.91,11.05,1003,Carton,355,1027,177
+PRD0317,HealWell Premium First 317,Medical,First Aid,HealWell,2106.74,3163.55,7.27,633,Carton,260,911,141
+PRD0318,MediCore Elite Personal 318,Medical,Personal Care,MediCore,8800.94,14814.78,4.62,453,Carton,415,1210,277
+PRD0319,HealWell Ultra First 319,Medical,First Aid,HealWell,5137.92,7764.05,5.55,759,Carton,473,911,278
+PRD0320,VitalTech Elite Mobility 320,Medical,Mobility Aids,VitalTech,8576.96,11915.3,6.0,590,Carton,282,900,130
+PRD0321,IronForge Premium Material 321,Industrial,Material Handling,IronForge,3923.77,5768.86,65.07,2600,Crate,186,855,116
+PRD0322,IronForge Heavy-Duty Hardware 322,Industrial,Hardware,IronForge,7040.08,8782.36,70.63,2283,Crate,173,963,67
+PRD0323,StrongArm Ultra Material 323,Industrial,Material Handling,StrongArm,18201.64,29156.8,58.07,3619,Carton,452,1209,296
+PRD0324,StrongArm Smart Power 324,Industrial,Power Tools,StrongArm,9858.15,13866.11,41.69,2916,Carton,372,1294,258
+PRD0325,BuildRight Everyday Hardware 325,Industrial,Hardware,BuildRight,6149.99,7479.17,60.23,2403,Box,212,548,62
+PRD0326,SafeGuard Portable Material 326,Industrial,Material Handling,SafeGuard,19964.91,29449.77,9.71,1097,Carton,247,800,90
+PRD0327,StrongArm Premium Safety 327,Industrial,Safety Equipment,StrongArm,1949.09,2695.18,11.13,2682,Box,447,1002,264
+PRD0328,StrongArm Heavy-Duty Fasteners 328,Industrial,Fasteners,StrongArm,10596.39,17715.73,25.42,2540,Carton,234,535,96
+PRD0329,HeavyDuty Portable Material 329,Industrial,Material Handling,HeavyDuty,6734.92,9091.38,60.54,1095,Carton,311,978,149
+PRD0330,HeavyDuty Classic Material 330,Industrial,Material Handling,HeavyDuty,19161.21,28628.83,53.56,1131,Crate,353,1068,276
+PRD0331,IronForge Signature Hardware 331,Industrial,Hardware,IronForge,3735.44,4961.7,25.68,1414,Carton,443,749,249
+PRD0332,IronForge Heavy-Duty Hardware 332,Industrial,Hardware,IronForge,12008.44,17377.34,64.7,1659,Box,344,1186,236
+PRD0333,IronForge Pro Safety 333,Industrial,Safety Equipment,IronForge,6681.97,8620.43,0.99,3420,Box,389,1368,220
+PRD0334,SafeGuard Pro Material 334,Industrial,Material Handling,SafeGuard,5397.76,7033.26,57.63,3341,Crate,254,1243,111
+PRD0335,StrongArm Advanced Fasteners 335,Industrial,Fasteners,StrongArm,9022.81,13604.23,29.16,2296,Carton,299,1160,141
+PRD0336,BuildRight Pro Safety 336,Industrial,Safety Equipment,BuildRight,19293.9,26524.96,36.57,2538,Crate,310,649,187
+PRD0337,HeavyDuty Essential Hardware 337,Industrial,Hardware,HeavyDuty,6282.07,8097.77,79.12,2490,Box,336,953,282
+PRD0338,SafeGuard Pro Safety 338,Industrial,Safety Equipment,SafeGuard,6219.17,9057.67,17.48,3118,Box,161,688,99
+PRD0339,SafeGuard Signature Fasteners 339,Industrial,Fasteners,SafeGuard,16082.26,22251.16,65.08,1472,Crate,289,1062,149
+PRD0340,StrongArm Essential Material 340,Industrial,Material Handling,StrongArm,3662.9,4898.35,44.98,3040,Box,190,1153,121
+PRD0341,HeavyDuty Compact Fasteners 341,Industrial,Fasteners,HeavyDuty,19277.03,25938.76,25.26,1136,Carton,351,702,194
+PRD0342,BuildRight Heavy-Duty Material 342,Industrial,Material Handling,BuildRight,9934.98,14097.92,47.74,1769,Box,364,867,189
+PRD0343,SafeGuard Heavy-Duty Safety 343,Industrial,Safety Equipment,SafeGuard,12274.6,20336.29,57.69,3477,Carton,288,695,184
+PRD0344,HeavyDuty Smart Fasteners 344,Industrial,Fasteners,HeavyDuty,5893.31,10412.62,46.31,2663,Box,160,947,89
+PRD0345,SafeGuard Standard Hardware 345,Industrial,Hardware,SafeGuard,13304.83,21543.56,40.69,2971,Carton,465,959,289
+PRD0346,StrongArm Elite Fasteners 346,Industrial,Fasteners,StrongArm,4277.86,6381.14,11.95,3506,Crate,234,1014,69
+PRD0347,BuildRight Smart Fasteners 347,Industrial,Fasteners,BuildRight,10146.72,16796.98,41.22,2739,Box,186,765,109
+PRD0348,IronForge Premium Fasteners 348,Industrial,Fasteners,IronForge,4428.97,5884.91,24.02,1649,Crate,396,923,201
+PRD0349,IronForge Advanced Fasteners 349,Industrial,Fasteners,IronForge,10629.76,17324.65,48.59,2919,Crate,257,785,64
+PRD0350,IronForge Standard Hardware 350,Industrial,Hardware,IronForge,9101.29,13856.22,71.12,1620,Crate,384,976,195
+PRD0351,IronForge Classic Hardware 351,Industrial,Hardware,IronForge,19960.95,33638.72,18.74,2439,Carton,326,971,134
+PRD0352,SafeGuard Classic Safety 352,Industrial,Safety Equipment,SafeGuard,13485.69,17240.6,35.58,1308,Box,369,1256,232
+PRD0353,HeavyDuty Portable Hardware 353,Industrial,Hardware,HeavyDuty,1573.37,2006.85,9.14,1783,Box,258,915,186
+PRD0354,BuildRight Portable Power 354,Industrial,Power Tools,BuildRight,3445.79,4492.37,44.29,1568,Crate,205,842,65
+PRD0355,HeavyDuty Deluxe Hardware 355,Industrial,Hardware,HeavyDuty,18979.21,24524.43,25.86,1723,Crate,195,809,105
+PRD0356,BuildRight Elite Fasteners 356,Industrial,Fasteners,BuildRight,13811.79,20636.57,62.01,1371,Crate,401,1256,252
+PRD0357,StrongArm Portable Power 357,Industrial,Power Tools,StrongArm,14226.48,21901.44,31.63,3522,Crate,436,1289,271
+PRD0358,BuildRight Deluxe Safety 358,Industrial,Safety Equipment,BuildRight,15056.2,24794.4,43.88,2585,Box,164,532,101
+PRD0359,SafeGuard Smart Material 359,Industrial,Material Handling,SafeGuard,17215.92,21380.51,52.18,3190,Carton,279,579,188
+PRD0360,StrongArm Classic Power 360,Industrial,Power Tools,StrongArm,17883.65,31253.36,78.48,1128,Carton,420,1414,273
+PRD0361,Luminous Classic Lighting 361,Home Decor,Lighting,Luminous,2990.2,3601.33,8.78,2644,Box,271,655,154
+PRD0362,Homestead Compact Decorative 362,Home Decor,Decorative Accents,Homestead,3646.69,5064.48,11.54,3374,Carton,237,577,83
+PRD0363,Homestead Elite Lighting 363,Home Decor,Lighting,Homestead,6462.46,9752.43,4.55,2138,Carton,275,1226,123
+PRD0364,Artisia Signature Lighting 364,Home Decor,Lighting,Artisia,5518.28,7943.13,13.73,1616,Poly Bag,458,863,266
+PRD0365,Luminous Pro Decorative 365,Home Decor,Decorative Accents,Luminous,5022.73,7682.22,4.84,1959,Poly Bag,384,884,294
+PRD0366,Luminous Classic Curtains 366,Home Decor,Curtains,Luminous,6699.42,11536.51,12.31,1367,Carton,360,1104,272
+PRD0367,Glowline Ultra Curtains 367,Home Decor,Curtains,Glowline,4115.58,6059.15,2.85,3073,Carton,301,1242,126
+PRD0368,Weavehome Ultra Rugs 368,Home Decor,Rugs & Carpets,Weavehome,5666.09,7020.17,7.7,2413,Box,315,806,169
+PRD0369,Glowline Compact Lighting 369,Home Decor,Lighting,Glowline,1511.2,2266.21,9.68,2376,Box,354,1289,265
+PRD0370,Luminous Ultra Wall 370,Home Decor,Wall Decor,Luminous,565.89,942.04,13.97,1915,Box,261,607,94
+PRD0371,Artisia Standard Wall 371,Home Decor,Wall Decor,Artisia,5354.19,9624.75,13.2,2710,Carton,252,984,128
+PRD0372,Artisia Pro Wall 372,Home Decor,Wall Decor,Artisia,4701.94,8147.85,12.32,3365,Carton,147,722,73
+PRD0373,Artisia Signature Decorative 373,Home Decor,Decorative Accents,Artisia,4249.32,5914.24,12.75,1771,Poly Bag,444,1063,296
+PRD0374,Weavehome Elite Rugs 374,Home Decor,Rugs & Carpets,Weavehome,1669.74,2694.0,3.67,2636,Box,205,1019,136
+PRD0375,Weavehome Premium Decorative 375,Home Decor,Decorative Accents,Weavehome,1474.19,2153.58,8.98,2513,Carton,437,1353,267
+PRD0376,Luminous Signature Rugs 376,Home Decor,Rugs & Carpets,Luminous,2588.63,4353.17,1.71,2312,Poly Bag,339,1117,267
+PRD0377,Luminous Essential Lighting 377,Home Decor,Lighting,Luminous,1502.05,2139.31,11.32,2674,Box,276,1211,223
+PRD0378,Weavehome Deluxe Rugs 378,Home Decor,Rugs & Carpets,Weavehome,1485.01,2120.03,12.81,1459,Box,211,600,149
+PRD0379,Glowline Smart Curtains 379,Home Decor,Curtains,Glowline,1325.5,1951.39,6.66,2191,Poly Bag,148,477,97
+PRD0380,Homestead Compact Wall 380,Home Decor,Wall Decor,Homestead,536.75,753.34,3.31,3429,Box,441,1353,294
+PRD0381,Glowline Standard Lighting 381,Home Decor,Lighting,Glowline,1355.89,1746.65,2.98,2732,Box,375,951,292
+PRD0382,Artisia Portable Curtains 382,Home Decor,Curtains,Artisia,2752.31,4030.28,10.66,1735,Box,261,953,73
+PRD0383,Weavehome Everyday Decorative 383,Home Decor,Decorative Accents,Weavehome,6219.16,10756.08,2.7,3256,Poly Bag,180,1044,113
+PRD0384,Artisia Classic Wall 384,Home Decor,Wall Decor,Artisia,2886.55,4300.26,9.81,2872,Box,485,1200,289
+PRD0385,Artisia Signature Wall 385,Home Decor,Wall Decor,Artisia,724.0,1200.33,1.85,3346,Poly Bag,361,875,220
+PRD0386,Homestead Advanced Wall 386,Home Decor,Wall Decor,Homestead,288.03,458.68,1.06,2508,Carton,141,872,60
+PRD0387,Luminous Everyday Decorative 387,Home Decor,Decorative Accents,Luminous,6264.09,10630.76,4.58,3305,Poly Bag,414,923,258
+PRD0388,Weavehome Advanced Decorative 388,Home Decor,Decorative Accents,Weavehome,822.54,1471.49,3.38,1693,Carton,413,1095,223
+PRD0389,Artisia Heavy-Duty Rugs 389,Home Decor,Rugs & Carpets,Artisia,2411.37,4255.86,5.53,2939,Box,158,473,72
+PRD0390,Weavehome Heavy-Duty Rugs 390,Home Decor,Rugs & Carpets,Weavehome,5026.19,7597.44,5.17,1153,Box,324,914,243
+PRD0391,Homestead Classic Rugs 391,Home Decor,Rugs & Carpets,Homestead,4486.99,8054.18,9.21,3090,Poly Bag,247,744,145
+PRD0392,Luminous Compact Decorative 392,Home Decor,Decorative Accents,Luminous,5111.9,8174.81,5.95,1246,Poly Bag,357,664,271
+PRD0393,Weavehome Ultra Curtains 393,Home Decor,Curtains,Weavehome,1643.33,2233.36,4.18,1644,Carton,245,760,59
+PRD0394,Artisia Essential Decorative 394,Home Decor,Decorative Accents,Artisia,1004.84,1682.86,6.49,3452,Box,260,1063,179
+PRD0395,Artisia Pro Curtains 395,Home Decor,Curtains,Artisia,457.93,671.97,11.03,1815,Box,321,1217,205
+PRD0396,Artisia Standard Wall 396,Home Decor,Wall Decor,Artisia,4672.94,7375.15,14.36,2165,Carton,326,753,203
+PRD0397,Luminous Compact Decorative 397,Home Decor,Decorative Accents,Luminous,2024.44,2829.66,13.71,2932,Carton,338,787,221
+PRD0398,Artisia Advanced Curtains 398,Home Decor,Curtains,Artisia,6596.33,8317.44,1.93,2303,Carton,405,1374,222
+PRD0399,Glowline Essential Lighting 399,Home Decor,Lighting,Glowline,1559.21,2206.35,6.89,1133,Box,298,1074,108
+PRD0400,Homestead Deluxe Wall 400,Home Decor,Wall Decor,Homestead,4471.93,7257.88,6.11,1407,Poly Bag,259,1086,89

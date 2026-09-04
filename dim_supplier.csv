@@ -1,0 +1,76 @@
+Supplier_ID,Supplier_Name,Country,Supplier_Rating,Lead_Time_Days,Contract_Type,Supplier_Type,Contact_Email,Phone
+SUP001,Global Traders,India,3.3,3,Framework Agreement,Wholesaler,contact@globaltraders.com,-1124613320
+SUP002,Prime Holdings,Germany,4.6,12,Annual Contract,Wholesaler,contact@primeholdings.com,-1949312243
+SUP003,United Exports,USA,3.3,21,Long-Term Agreement,Manufacturer,contact@unitedexports.com,-4752796099
+SUP004,National Holdings,Singapore,3.9,8,Annual Contract,Manufacturer,contact@nationalholding.com,-6141710687
+SUP005,Apex Holdings,India,3.7,3,Spot Contract,Distributor,contact@apexholdings.com,-6998755981
+SUP006,Summit Group,South Korea,4.1,8,Annual Contract,Trading Company,contact@summitgroup.com,-9146467418
+SUP007,Pioneer Manufacturing,India,3.8,8,Long-Term Agreement,Manufacturer,contact@pioneermanufact.com,-2714537489
+SUP008,Reliable Group,India,4.6,3,Annual Contract,Trading Company,contact@reliablegroup.com,-8780840362
+SUP009,Crown Industries,India,4,4,Framework Agreement,Trading Company,contact@crownindustries.com,-5126243066
+SUP010,Vertex Group,India,3.5,7,Spot Contract,Wholesaler,contact@vertexgroup.com,-9347880557
+SUP011,Zenith Manufacturing,USA,3.4,18,Framework Agreement,Wholesaler,contact@zenithmanufactu.com,-2251650914
+SUP012,Orbit Supply Co.,,4.1,5,Annual Contract,Distributor,contact@orbitsupplyco.com,-4795039322
+SUP013,Horizon Enterprises,India,4.5,4,Framework Agreement,Trading Company,contact@horizonenterpri.com,-7399972184
+SUP014,Pinnacle Holdings,India,4.8,3,Annual Contract,Wholesaler,contact@pinnacleholding.com,-6952822403
+SUP015,Sterling Manufacturing,Japan,3.6,14,Long-Term Agreement,Trading Company,contact@sterlingmanufac.com,-7908913208
+SUP016,Meridian Logistics,China,3.9,13,Long-Term Agreement,Trading Company,contact@meridianlogisti.com,-8929998401
+SUP017,Nova Enterprises,India,4.3,10,Long-Term Agreement,Manufacturer,contact@novaenterprises.com,-9157209929
+SUP018,Atlas Industries,,3.6,12,Annual Contract,Manufacturer,contact@atlasindustries.com,-3232975897
+SUP019,Titan Enterprises,China,4.7,15,Long-Term Agreement,Distributor,contact@titanenterprise.com,-3582332490
+SUP020,Legacy Supply Co.,India,3.1,3,Framework Agreement,Distributor,contact@legacysupplyco.com,-4349594547
+SUP021,Fusion Holdings,China,4.9,14,Spot Contract,Distributor,contact@fusionholdings.com,-6270282179
+SUP022,Vector Holdings,Singapore,3.8,8,Framework Agreement,Distributor,contact@vectorholdings.com,-8797417815
+SUP023,Quantum Industries,China,3.6,7,Framework Agreement,Distributor,contact@quantumindustri.com,-1192181205
+SUP024,Cascade Group,Germany,3.2,14,Annual Contract,Distributor,contact@cascadegroup.com,-1725735508
+SUP025,Everest Traders,USA,3.8,17,Long-Term Agreement,Manufacturer,contact@everesttraders.com,-7793401366
+SUP026,Falcon Supply Co.,India,3.1,4,Spot Contract,Distributor,contact@falconsupplyco.com,-5211648633
+SUP027,Granite Corp.,Singapore,4.1,8,Long-Term Agreement,Distributor,contact@granitecorp.com,-9656379644
+SUP028,Harbor Exports,China,4.5,11,Spot Contract,Wholesaler,contact@harborexports.com,-7321718487
+SUP029,Ironclad Exports,Germany,3.6,17,Annual Contract,Manufacturer,contact@ironcladexports.com,-7014621572
+SUP030,Jubilee Corp.,India,4.3,5,Long-Term Agreement,Manufacturer,contact@jubileecorp.com,-9685582346
+SUP031,Keystone Traders,India,3.9,5,Long-Term Agreement,Distributor,contact@keystonetraders.com,-2761771459
+SUP032,Lumina Corp.,India,4.7,7,Long-Term Agreement,Distributor,contact@luminacorp.com,-8624873718
+SUP033,Monarch Enterprises,South Korea,3.8,15,Annual Contract,Distributor,contact@monarchenterpri.com,-6006037466
+SUP034,Nexus Holdings,Germany,4.5,16,Long-Term Agreement,Trading Company,contact@nexusholdings.com,-8175274573
+SUP035,Oceanic Group,China,4.7,11,Spot Contract,Wholesaler,contact@oceanicgroup.com,-3782745085
+SUP036,Paragon Exports,China,4.2,10,Annual Contract,Manufacturer,contact@paragonexports.com,-6001133514
+SUP037,Quantico Supply Co.,USA,4.1,18,Spot Contract,Trading Company,contact@quanticosupplyc.com,-1853892849
+SUP038,Radiant Corp.,China,4.6,12,Annual Contract,Distributor,contact@radiantcorp.com,-1783983794
+SUP039,Solstice Enterprises,Singapore,3.8,11,Annual Contract,Distributor,contact@solsticeenterpr.com,-1045523934
+SUP040,Trident Supply Co.,Japan,4.8,11,Spot Contract,Distributor,contact@tridentsupplyco.com,-6789540811
+SUP041,Unity Group,USA,3.8,17,Spot Contract,Distributor,contact@unitygroup.com,-1050816805
+SUP042,Valor Industries,India,3.8,7,Annual Contract,Manufacturer,contact@valorindustries.com,-3592106668
+SUP043,Wavefront Supply Co.,South Korea,3.3,9,Long-Term Agreement,Manufacturer,contact@wavefrontsupply.com,-2077510900
+SUP044,Excelsior Supply Co.,India,3.5,6,Framework Agreement,Trading Company,contact@excelsiorsupply.com,-2103880274
+SUP045,Beacon Manufacturing,India,5,3,Annual Contract,Wholesaler,contact@beaconmanufactu.com,-8111451123
+SUP046,Cardinal Corp.,India,4.9,5,Spot Contract,Wholesaler,contact@cardinalcorp.com,-8110375330
+SUP047,Diamond Supply Co.,South Korea,4.4,11,Long-Term Agreement,Distributor,contact@diamondsupplyco.com,-1813279919
+SUP048,Emerald Holdings,India,4.9,5,Annual Contract,Wholesaler,contact@emeraldholdings.com,-9496842798
+SUP049,Frontier Group,USA,4,19,Spot Contract,Manufacturer,contact@frontiergroup.com,-7053369200
+SUP050,Grand Industries,India,3.2,4,Annual Contract,Manufacturer,contact@grandindustries.com,-8692684091
+SUP051,Highland Holdings,India,4.2,9,Long-Term Agreement,Wholesaler,contact@highlandholding.com,-5316594765
+SUP052,Infinity Logistics,Singapore,4.2,8,Annual Contract,Distributor,contact@infinitylogisti.com,-5064211175
+SUP053,Junction Enterprises,India,4.5,3,Spot Contract,Manufacturer,contact@junctionenterpr.com,-4908060162
+SUP054,Kinetic Traders,USA,4,17,Spot Contract,Wholesaler,contact@kinetictraders.com,-6124239259
+SUP055,Landmark Holdings,USA,3.9,19,Long-Term Agreement,Manufacturer,contact@landmarkholding.com,-3550254552
+SUP056,Momentum Logistics,Japan,3.8,16,Long-Term Agreement,Trading Company,contact@momentumlogisti.com,-1000488959
+SUP057,Northstar Enterprises,China,5,12,Long-Term Agreement,Wholesaler,contact@northstarenterp.com,-4284700585
+SUP058,Omega Group,India,4,4,Framework Agreement,Trading Company,contact@omegagroup.com,-7398059826
+SUP059,Prestige Supply Co.,Germany,3.6,12,Long-Term Agreement,Trading Company,contact@prestigesupplyc.com,-6051220693
+SUP060,Regal Exports,India,3.3,4,Spot Contract,Distributor,contact@regalexports.com,-3038303978
+SUP061,Skyline Traders,China,4.6,13,Long-Term Agreement,Distributor,contact@skylinetraders.com,-7064424747
+SUP062,Terra Exports,South Korea,4.7,13,Annual Contract,Manufacturer,contact@terraexports.com,-3538496304
+SUP063,Universal Industries,Japan,4.6,14,Spot Contract,Manufacturer,contact@universalindust.com,-8887656040
+SUP064,Vantage Supply Co.,Germany,4.6,13,Annual Contract,Trading Company,contact@vantagesupplyco.com,-7744846543
+SUP065,Westbrook Supply Co.,USA,4.2,19,Framework Agreement,Trading Company,contact@westbrooksupply.com,-9931470130
+SUP066,Yield Group,Germany,4.5,15,Spot Contract,Distributor,contact@yieldgroup.com,-1240886733
+SUP067,Zephyr Enterprises,USA,4.6,20,Annual Contract,Trading Company,contact@zephyrenterpris.com,-4168421447
+SUP068,Anchor Supply Co.,India,4.8,3,Long-Term Agreement,Manufacturer,contact@anchorsupplyco.com,-4692565051
+SUP069,Bridge Group,India,3.9,5,Spot Contract,Manufacturer,contact@bridgegroup.com,-2546462942
+SUP070,Compass Exports,South Korea,4.2,11,Spot Contract,Wholesaler,contact@compassexports.com,-5877582045
+SUP071,Delta Manufacturing,India,4.1,5,Long-Term Agreement,Wholesaler,contact@deltamanufactur.com,-3866692305
+SUP072,Echelon Holdings,India,3.4,3,Annual Contract,Distributor,contact@echelonholdings.com,-9983552898
+SUP073,Foundry Logistics,China,4.6,10,Annual Contract,Manufacturer,contact@foundrylogistic.com,-5335510947
+SUP074,Gateway Exports,,3.3,13,Annual Contract,Trading Company,contact@gatewayexports.com,-2084305387
+SUP075,Heritage Holdings,China,4.3,17,Annual Contract,Manufacturer,contact@heritageholding.com,-9553166089
