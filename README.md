@@ -122,28 +122,23 @@ This structure helps analyze shipment transactions together with product, suppli
 # 📊 Dashboard Preview
 
 ## Executive Overview
-
 <img width="1405" height="807" alt="Screenshot 2026-09-04 125923" src="https://github.com/user-attachments/assets/9d66ba00-38f5-4c09-a523-6c5efe88964b" />
 
 
 ## Inventory Analytics
+(<img width="1437" height="802" alt="Screenshot 2026-09-04 130005" src="https://github.com/user-attachments/assets/05b6bc76-e65a-43bb-b42d-eb380c337132" />
 
-![Inventory Analytics](<img width="1437" height="802" alt="Screenshot 2026-09-04 130005" src="https://github.com/user-attachments/assets/05b6bc76-e65a-43bb-b42d-eb380c337132" />
-)
+
 ## Logistics Analytics
+<img width="1432" height="797" alt="Screenshot 2026-09-04 130059" src="https://github.com/user-attachments/assets/55d0e038-c6d6-41c7-8cfe-03dd9f3f6c9b" />
 
-![Logistics Analytics](<img width="1432" height="797" alt="Screenshot 2026-09-04 130059" src="https://github.com/user-attachments/assets/55d0e038-c6d6-41c7-8cfe-03dd9f3f6c9b" />
-)
 
 ## Product Segmentation
+<img width="1435" height="805" alt="Screenshot 2026-09-04 130123" src="https://github.com/user-attachments/assets/21f7f734-813c-4909-9488-4f1e3d27ed77" />
 
-![Product Segmentation](<img width="1435" height="805" alt="Screenshot 2026-09-04 130123" src="https://github.com/user-attachments/assets/21f7f734-813c-4909-9488-4f1e3d27ed77" />
-)
 
 ## Supplier Performance
-
-![Supplier Performance](<img width="1432" height="802" alt="Screenshot 2026-09-04 130142" src="https://github.com/user-attachments/assets/e75dfe70-fd4f-4863-b028-e3019343c35b" />
-)
+<img width="1432" height="802" alt="Screenshot 2026-09-04 130142" src="https://github.com/user-attachments/assets/e75dfe70-fd4f-4863-b028-e3019343c35b" />
 
 ---
 
