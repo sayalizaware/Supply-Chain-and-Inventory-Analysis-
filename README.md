@@ -176,6 +176,6 @@ Skilled in Power BI, SQL, Python, Excel, DAX, and Data Visualization.
 
 ### 🔗 Connect with Me
 
-- **GitHub:** (https://github.com/sayalizaware)
+- **GitHub:** https://github.com/sayalizaware
 - **LinkedIn:** https://www.linkedin.com/in/sayali-zaware-cs/
 
