@@ -25,9 +25,22 @@ The dashboard enables business users to monitor inventory, logistics, suppliers,
 - 🛒 400 Products
 - 🏭 75 Suppliers
 - 🏢 30 Warehouses
-- 📈 8 Interactive Dashboard Pages
 - 💻 63 SQL Analytical Queries
 - 🐍 Python Cleaning Data 
 - ⭐ Star Schema Data Model
+
+---
+## 📈 Executive Dashboard
+
+Business KPIs including:
+
+- Revenue
+- Orders
+- Profit
+- Delivery Rate
+- Damage Rate
+- Return Rate
+
+![Executive Dashboard]("C:\Users\OMKAR\OneDrive\Pictures\Screenshots\Screenshot 2026-09-04 125923.png")
 
 ---
