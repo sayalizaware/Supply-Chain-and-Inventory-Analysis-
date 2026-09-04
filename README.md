@@ -31,7 +31,7 @@ The objective is to transform raw operational data into meaningful business insi
 
 ---
 
-# 📊 Power BI Dashboard – 5 Pages
+# 📊 Power BI Dashboard 
 
 ## 1️⃣ Executive Overview
 
