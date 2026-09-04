@@ -123,8 +123,8 @@ This structure helps analyze shipment transactions together with product, suppli
 
 ## Executive Overview
 
-![Executive Overview](<img width="1405" height="807" alt="Screenshot 2026-09-04 125923" src="https://github.com/user-attachments/assets/9d66ba00-38f5-4c09-a523-6c5efe88964b" />
-)
+<img width="1405" height="807" alt="Screenshot 2026-09-04 125923" src="https://github.com/user-attachments/assets/9d66ba00-38f5-4c09-a523-6c5efe88964b" />
+
 
 ## Inventory Analytics
 
