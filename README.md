@@ -1,45 +1,82 @@
-# Supply-Chain-and-Inventory-Analysis-
----
+# 🚚 SupplyIQ – Supply Chain & Logistics Analytics
 
-# 📌 Project Overview
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![Python](https://img.shields.io/badge/Python-EDA-green)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-orange)
 
-SupplyIQ is a complete Supply Chain Analytics solution designed to simulate a real-world retail supply chain.
+## 📌 Project Overview
 
-The project demonstrates the complete analytics workflow:
+SupplyIQ is an end-to-end Supply Chain and Logistics Analytics project developed to analyze and monitor supply chain operations using SQL, Python, and Power BI.
 
-- SQL Database Design
-- Star Schema Data Modeling
-- Data Cleaning
-- Data Transformation using Power Query
-- Data Analysis using DAX
-- Product Segmentation using Python
-- Interactive Power BI Dashboard
+The project provides interactive dashboards for analyzing:
 
-The dashboard enables business users to monitor inventory, logistics, suppliers, products, and overall supply chain performance.
+- Shipment performance
+- Inventory levels
+- Logistics efficiency
+- Product movement
+- Supplier performance
+- Shipping costs
+- Delivery performance
+- Warehouse utilization
 
----
-
-# 📊 Project Highlights
-
-- 📦 105,000+ Shipment Records
-- 🛒 400 Products
-- 🏭 75 Suppliers
-- 🏢 30 Warehouses
-- 💻 63 SQL Analytical Queries
-- 🐍 Python Cleaning Data 
-- ⭐ Star Schema Data Model
+The objective is to transform raw supply chain data into meaningful business insights that can help organizations improve operational efficiency, reduce logistics costs, optimize inventory, and improve supplier performance.
 
 ---
-## 📈 Executive Dashboard
 
-Business KPIs including:
+# 🎯 Project Objectives
 
-- Revenue
-- Orders
-- Profit
-- Inventory Remaining
-- Total Logistics
-- Avg Delivery Days
+The main objectives of this project are:
 
-("<img width="1405" height="807" alt="Screenshot 2026-09-04 125923" src="https://github.com/user-attachments/assets/129e86dd-eb02-476c-882d-591d375e98a0" />
+- Analyze overall shipment performance.
+- Monitor on-time and delayed deliveries.
+- Analyze shipping costs across regions and transport modes.
+- Monitor inventory levels across warehouses.
+- Identify low-stock products.
+- Analyze product movement patterns.
+- Segment products into Fast, Medium, and Slow Moving groups.
+- Evaluate supplier performance and reliability.
+- Identify top suppliers based on shipping/procurement cost.
+- Analyze supplier lead time and delivery performance.
+- Provide interactive business dashboards for decision-making.
+
 ---
+
+# 🛠️ Technologies Used
+
+## Data Analysis
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Exploratory Data Analysis (EDA)
+
+## Database
+
+- MySQL
+- SQL
+
+## Business Intelligence
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modeling
+
+## Visualization
+
+- KPI Cards
+- Bar Charts
+- Line Charts
+- Area Charts
+- Donut Charts
+- Scatter Plots
+- Stacked Bar Charts
+- Tables
+- Slicers
+
+---        ↓
+Interactive Dashboards
+        ↓
+Business Insights
