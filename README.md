@@ -41,6 +41,7 @@ Business KPIs including:
 - Damage Rate
 - Return Rate
 
-![Executive Dashboard]("C:\Users\OMKAR\OneDrive\Pictures\Screenshots\Screenshot 2026-09-04 125923.png")
+![Executive Dashboard]("<img width="1405" height="807" alt="Screenshot 2026-09-04 125923" src="https://github.com/user-attachments/assets/129e86dd-eb02-476c-882d-591d375e98a0" />
+")
 
 ---
